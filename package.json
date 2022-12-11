@@ -1,0 +1,14 @@
+{
+  "name": "seubarriga",
+  "version": "1.0.0",
+  "description": "testando login",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "italo",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
